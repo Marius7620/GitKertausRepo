@@ -1,1 +1,2 @@
 # GitKertausRepo
+Nimi: Marius Lutz
